@@ -6,7 +6,7 @@ Create the new Rails application
 
 We're going to create a blank Rails application now. We'll use the following command:
 
-`rails new . -BGTO`
+`rails new . -BGT`
 
 Here's what all this means:
 
@@ -17,7 +17,7 @@ Here's what all this means:
 5. `B` tells the rails executable not to run bundler automatically (more on this anon -- we'll run it manually)
 6. `G` tells the rails executable not to create its own .gitignore file (we're using GitHub's version)
 7. `T` tells the rails executable not to include the testing framework (we'll add our own later)
-8. `O` tells the rails executable not to include ActiveRecord (we'll be using MongoDB and Mongoid)
+8. `O` tells the rails executable not to include ActiveRecord (Leave it, we'll be using ActiveRecord)
 
 You can see all the options for `rails new` by running `rails new -h`.
 

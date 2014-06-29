@@ -21,8 +21,8 @@ Once it is installed, we'll want to update our Gemfile, and then run it to insta
     gem 'jquery-ui-rails'
 
     group :development, :test do
-      gem "better_errors"
-      gem "binding_of_caller"
+      gem 'better_errors'
+      gem 'binding_of_caller'
     end
 
 What do these do?
