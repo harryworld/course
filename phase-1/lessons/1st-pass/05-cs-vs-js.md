@@ -30,3 +30,4 @@ The students understand the basics of converting CoffeeScript to JavaScript and 
 * http://js2coffee.org/
 * https://gist.github.com/bridgpal/c2fbca5182b4d5e53caa
 * http://jstherightway.org/
+* [Callback Hell](http://callbackhell.com/)

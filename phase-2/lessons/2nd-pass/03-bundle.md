@@ -15,10 +15,13 @@ Once it is installed, we'll want to update our Gemfile, and then run it to insta
     source 'https://rubygems.org'
 
     gem 'rails', '4.1.1'
-    gem 'activesupport', require: 'active_support'
-    gem 'uglifier'
+    gem 'sqlite3'
+    gem 'sass-rails', '~> 4.0.3'
+    gem 'uglifier', '>= 1.3.0'
+    gem 'coffee-rails', '~> 4.0.0'
     gem 'jquery-rails'
     gem 'jquery-ui-rails'
+    gem 'spring',        group: :development
 
     group :development, :test do
       gem 'better_errors'

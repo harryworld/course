@@ -20,3 +20,4 @@ The ruby version on the workspace should be set to the latest ruby (version 2.1.
 
 * [rbenv](https://github.com/sstephenson/rbenv)
 * [Comparison of RVM and rbenv](http://jonathan-jackson.net/rvm-and-rbenv)
+* [Using rbenv to Manage Rubies and Gems](http://robots.thoughtbot.com/using-rbenv-to-manage-rubies-and-gems)
