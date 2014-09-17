@@ -12,3 +12,5 @@ Invite Friend
 Type username
 
 Share to friends
+
+- https://leanpub.com/meteortutorial/read
